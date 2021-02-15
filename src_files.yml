@@ -1,0 +1,10 @@
+dummy_vip:
+  udma_subsystem:
+    incdirs: [
+      ../../rtl/includes,
+      .,
+    ]
+    files: [
+      rtl/dummy_submodule.sv,
+      rtl/dummy_top.sv,
+    ] 
