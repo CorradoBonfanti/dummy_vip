@@ -1,7 +1,4 @@
 dummy_vip:
-  incdirs: [
-    include/dummy_module,
-  ]
   files: [
     rtl/dummy_submodule.sv,
     rtl/dummy_top.sv,
