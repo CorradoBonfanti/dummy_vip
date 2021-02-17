@@ -20,4 +20,4 @@
 
 common_cells:
   commit: v1.20.0
-  domain: [soc, cluster]
+  domain: [cluster, soc]
